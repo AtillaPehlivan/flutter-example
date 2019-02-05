@@ -55,7 +55,7 @@ samples, guidance on mobile development, and a full API reference.
   image_cropper: ^0.0.9
 
 # images
-![alt text](https://github.com/AtillaPehlivan/flutter-example/blob/master/img/1.png)
-![alt text](https://github.com/AtillaPehlivan/flutter-example/blob/master/img/2.png)
-![alt text](https://github.com/AtillaPehlivan/flutter-example/blob/master/img/3.png)
-![alt text](https://github.com/AtillaPehlivan/flutter-example/blob/master/img/4.png)
+<img src="https://github.com/AtillaPehlivan/flutter-example/blob/master/img/1.png" data-canonical-src="https://github.com/AtillaPehlivan/flutter-example/blob/master/img/1.png" width="200" height="400" />
+<img src="https://github.com/AtillaPehlivan/flutter-example/blob/master/img/2.png" data-canonical-src="https://github.com/AtillaPehlivan/flutter-example/blob/master/img/2.png" width="200" height="400" />
+<img src="https://github.com/AtillaPehlivan/flutter-example/blob/master/img/3.png" data-canonical-src="https://github.com/AtillaPehlivan/flutter-example/blob/master/img/3.png" width="200" height="400" />
+<img src="https://github.com/AtillaPehlivan/flutter-example/blob/master/img/4.png" data-canonical-src="https://github.com/AtillaPehlivan/flutter-example/blob/master/img/4.png" width="200" height="400" />
