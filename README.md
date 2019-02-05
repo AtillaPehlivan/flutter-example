@@ -15,6 +15,15 @@ install packages from the command line:
 
 $flutter packages get
 
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.io/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
+
 # dependencies:
 
   flutter:
@@ -44,3 +53,9 @@ $flutter packages get
   image_picker:
   
   image_cropper: ^0.0.9
+
+# images
+![alt text](https://github.com/AtillaPehlivan/flutter-example/blob/master/img/1.png)
+![alt text](https://github.com/AtillaPehlivan/flutter-example/blob/master/img/2.png)
+![alt text](https://github.com/AtillaPehlivan/flutter-example/blob/master/img/3.png)
+![alt text](https://github.com/AtillaPehlivan/flutter-example/blob/master/img/4.png)
